@@ -13,4 +13,6 @@ in the README on two separate branches (branch-a and branch-b), then
 tried merging both into main. The second merge caused a conflict, and I
 resolved it by choosing to keep both changes combined.
 
+PRACTICING REBASE NOW
+
 MAIN BRANCH MOVED FORWARD
